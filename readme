@@ -1,0 +1,5 @@
+Tübitak için Hazırlanmıştır.orman Yangınların önüne geçilmek için yapılmıştır.
+Proje de Yaşanan sorunlar:
+1-Kapadokya GSM sheild bilgisayardan aldığı güç yetmiyor.Bunun için Usb Portundan Telefon şarj Adaptörüne bağladım ve harici olarak 3.7 volt 350 mah lipo pil ile Çalışıyor.
+2-Anten sıkılığı  sürekli kontrol edilmeli Sistem çalışmayabiliyor.
+3-Usb Portundan değilde vin den besleneceği Zaman Sheild in üzerindeki Switch vin tarafına çekilmeli
